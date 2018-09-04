@@ -1,6 +1,6 @@
 FROM frolvlad/alpine-glibc:latest
 
-MAINTAINER "Remo Inderbitzin" <remo@inderbitzin.org>
+MAINTAINER "Jason Horn <JHorn@redhat.com>"
 
 # specify the version string of the oc release
 ENV OC_VERSION "v3.9.0"
